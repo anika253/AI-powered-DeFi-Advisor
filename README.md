@@ -1,5 +1,5 @@
 📜 Overview:
-DeFi Robo-Adviser is an AI-driven decentralized finance (DeFi) trading assistant that automates investment strategies, executes secure trades, and mitigates risks using cutting-edge technologies:
+AI-powered-Defi-Advisor is an AI-driven decentralized finance (DeFi) trading assistant that automates investment strategies, executes secure trades, and mitigates risks using cutting-edge technologies:
 
 ✅ Venice AI – Real-time AI insights for optimized DeFi trades.
 ✅ Safe Smart Accounts – Multi-signature wallets for secure, automated transactions.
