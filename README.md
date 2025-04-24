@@ -60,7 +60,7 @@ RPC endpoint (e.g., Alchemy, Infura)
 1. Clone & Install
    bash
    Copy
-   git clone https://github.com/M-Barath-Vikraman/DeFi-Robo-Adviser
+   git clone https://github.com/anika253/DeFi-Robo-Adviser
    cd DeFi-Robo-Adviser
    npm install
 2. Configure Environment
