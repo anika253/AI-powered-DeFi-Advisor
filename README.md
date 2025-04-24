@@ -60,20 +60,12 @@ RPC endpoint (e.g., Alchemy, Infura)
 1. Clone & Install
    bash
    Copy
-   git clone https://github.com/anika253/DeFi-Robo-Adviser
+   git clone <repo url>
    cd DeFi-Robo-Adviser
    npm install
 2. Configure Environment
    Rename .env.example to .env and populate:
 
-ini
-Copy
-RPC_URL="https://eth-mainnet.g.alchemy.com/..."
-PRIVATE_KEY="0x..." # For testnet only!
-SAFE_MODULE_ADDRESS="0x..."
-VENICE_API_KEY="your_api_key"
-LIT_API_KEY="your_lit_key" 3. Run the System
-Backend:
 
 bash
 Copy
